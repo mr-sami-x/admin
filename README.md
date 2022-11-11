@@ -2,6 +2,7 @@
 Admin T.Y.G :  It's a very powerful tool to find admin panel paths for websites. The tool uses a list of internal paths  It also accepts a list of external paths to search. To run the tool, use the following commands:
 
 
+![Image 1]()
 ### KALI LINUX
 ‘‘‘
 > sudo pip install python
