@@ -4,10 +4,13 @@ Admin T.Y.G :  It's a very powerful tool to find admin panel paths for websites.
 
 ### KALI LINUX
 ‘‘‘
->_ sudo pip install python
->_ git clone https://github.com/mr-sami-x/admin.git
->_ cd admin
->_ python admin.py
+> sudo pip install python
+>
+> git clone https://github.com/mr-sami-x/admin.git
+>
+> cd admin
+>
+> python admin.py
 '''
 
 
@@ -15,8 +18,11 @@ Admin T.Y.G :  It's a very powerful tool to find admin panel paths for websites.
 ### TERMUX
 
 ‘‘‘
->_ pkg install python
->_ git clone https://github.com/mr-sami-x/admin.git
->_ cd admin
->_ python admin.py
+> pkg install python
+>
+> git clone https://github.com/mr-sami-x/admin.git
+>
+> cd admin
+>
+> python admin.py
 ‘‘‘
